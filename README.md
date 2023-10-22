@@ -1,6 +1,8 @@
 ### Hi there 👋
 # 💫 About Me:
-Passionate about software engineering, I love to build and create innovative solutions that make people's lives easier. <br>My expertise lies in developing scalable web applications<br>🔭 I’m currently working on individual project but open to some <br>🌱 I’m a Passionate Computer Scientist <br>
+# 💫 About Me:
+Passionate about software engineering, I love to build and create innovative solutions that make people's lives easier. <br> My expertise lies in developing scalable web applications. 🌱 I’m a Passionate Computer Scientist with a keen interest in data analytics and visualization.</br>
+
 
 
 ## 🌐 Socials:
